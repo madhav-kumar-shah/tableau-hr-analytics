@@ -1,6 +1,6 @@
 # tableau-hr-analytics
 Interactive Tableau dashboard analyzing employee demographics, workforce trends, and HR performance metrics
-👥 HR Analytics Dashboard | Tableau
+HR Analytics Dashboard | Tableau
 
 Project Overview
 
@@ -54,7 +54,3 @@ Skills Demonstrated
 Author
 
 Madhav Kumar  
-
-GitHub: https://github.com/madhav-kumar-shah
-
-LinkedIn: https://www.linkedin.com/in/madhav-kumar-432021249/
